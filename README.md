@@ -64,7 +64,7 @@ Predicción por pares (Evento 2): A/N según probabilidad relativa
 ---
 
 
-```
+
 
 > **Nota:** Los datos de PhysioNet no se incluyen en este repositorio. Ver sección [Datos](#datos) para obtenerlos.
 
