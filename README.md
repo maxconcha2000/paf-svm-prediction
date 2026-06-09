@@ -63,30 +63,13 @@ Predicción por pares (Evento 2): A/N según probabilidad relativa
 
 ---
 
-## Estructura del repositorio
 
-```
-├── main.py                  # Script principal (entrenamiento + evaluación)
-├── data/
-│   ├── ECGS/                # Registros ECG del grupo p y t (.txt)
-│   ├── event-1-answers.txt  # Respuestas oficiales Evento 1
-│   └── event-2-answers.txt  # Respuestas oficiales Evento 2
-├── results/                 # Resultados por semilla (generados al ejecutar)
-├── requirements.txt
-└── README.md
 ```
 
 > **Nota:** Los datos de PhysioNet no se incluyen en este repositorio. Ver sección [Datos](#datos) para obtenerlos.
 
 ---
 
-## Instalación
-
-```bash
-git clone https://github.com/tu-usuario/paf-svm-prediction.git
-cd paf-svm-prediction
-pip install -r requirements.txt
-```
 
 ### Dependencias principales
 
