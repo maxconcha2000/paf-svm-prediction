@@ -162,8 +162,6 @@ GridSearchCV con solapamiento del 50 % obtuvo el mejor rendimiento promedio y la
 - Conjunto de entrenamiento reducido (50 registros del grupo p), inherente al dataset de PhysioNet 2001.
 - El modelo fue evaluado exclusivamente en este benchmark; la generalización a otros datasets requiere validación adicional.
 
----
-
 
 
 ---
