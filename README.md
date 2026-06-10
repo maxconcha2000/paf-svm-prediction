@@ -164,21 +164,7 @@ GridSearchCV con solapamiento del 50 % obtuvo el mejor rendimiento promedio y la
 
 ---
 
-## Citación
 
-Si usas este trabajo, por favor cita:
-
-```bibtex
-@thesis{concha2025paf,
-  author  = {Concha Sanhueza, Maximiliano},
-  title   = {Predicción de Fibrilación Auricular Paroxística Inminente
-             mediante Máquinas de Vectores de Soporte},
-  school  = {Universidad de Concepción},
-  year    = {2025},
-  type    = {Tesis de Ingeniería en Estadística},
-  address = {Concepción, Chile}
-}
-```
 
 ---
 
